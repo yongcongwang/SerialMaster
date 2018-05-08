@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\dataplot.o
+./debug\steeringwhile.o
+./debug\gear.o
+./debug\qrc_source.o
+./debug\moc_mainwindow.o
+./debug\moc_dataplot.o
+./debug\moc_steeringwhile.o
+./debug\moc_gear.o
+);

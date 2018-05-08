@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\dataplot.o
+./release\steeringwhile.o
+./release\gear.o
+./release\qrc_source.o
+./release\moc_mainwindow.o
+./release\moc_dataplot.o
+./release\moc_steeringwhile.o
+./release\moc_gear.o
+);

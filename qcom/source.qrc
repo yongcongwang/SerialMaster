@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="logo">src/logo7.png</file>
+        <file alias="logo_low">src/logo8.png</file>
+        <file alias="logo_1">src/logobb.png</file>
+        <file alias="quit">src/1456429110_exit.png</file>
+    </qresource>
+</RCC>
